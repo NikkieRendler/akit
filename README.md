@@ -52,4 +52,4 @@
 
 <p style="color:">Nowadays in minds of young entrepreneurs startups became an equivalent of successful business model. For sure they have a vision of a product itself, but on lowest level — who and how should do that for them? It’s good if future CEO is technically proficient, but what if not? And even if that’s true — would it be enough of 1–2 person to code everything?</p>
 </div>
-"# akit" 
+
