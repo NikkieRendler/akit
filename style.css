@@ -7,6 +7,11 @@ h4 {
   margin: 0;
 }
 
+.sidebar-toggle {
+  bottom: auto !important;
+  top: 0 !important;
+}
+
 .card_container {
   display: flex;
   justify-content: flex-start;
@@ -69,8 +74,24 @@ h4 {
 }
 
 .article_heading {
-  /* color: #34495e !important; */
   font-size: 24px;
+}
+
+.article_author {
+  color: #999;
+  font-size: 14px;
+  padding: 8px 0 0 0;
+}
+
+.medium_logo {
+  background-image: url("./images/medium-logo.png");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-width: 25px;
+  min-height: 25px;
+  float: left;
+  margin: 5px 5px 0 0;
 }
 
 @media screen and (min-width: 768px) {
@@ -97,6 +118,12 @@ h4 {
 
 .nikkierendler {
   background-image: url("./images/nikkierendler.jpg");
+}
+
+.who_we_are {
+  padding: 16px;
+  line-height: 1.5;
+  text-align: justify;
 }
 
 .profile_img {
@@ -211,7 +238,7 @@ h4 {
   display: flex;
   flex-flow: row wrap;
   justify-content: space-evenly;
-  padding: 0 24px;
+  padding: 0 24px 50px;
 }
 
 .additional_item {
@@ -275,4 +302,54 @@ h4 {
 
 .additional_item_12 {
   background-image: url("./images/trello-logo.png");
+}
+
+/* TOOLTIP */
+/* TOOLTIP */
+/* TOOLTIP */
+
+/* Tooltip container */
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+
+  /* Position the tooltip text */
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
+
+  /* Fade in tooltip */
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+/* Tooltip arrow */
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
 }
