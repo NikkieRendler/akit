@@ -35,7 +35,7 @@ h4 {
 
 .card_image_2 {
   background-image: url("./images/wtmw.png");
-  background-color: #222;
+  background-color: #111;
 }
 
 .card_image_3 {
@@ -45,6 +45,7 @@ h4 {
 .card_image_4 {
   background-image: url("./images/statisfy.png");
   background-size: 90%;
+  background-color: #fff;
 }
 
 .card_text {
