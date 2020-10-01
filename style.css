@@ -1,3 +1,8 @@
+body {
+  background-image: url("./images/inspiration-geometry.png");
+  background-color: #f5f5f5;
+}
+
 h4 {
   margin: 0;
 }
@@ -12,9 +17,8 @@ h4 {
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   transition: 0.3s;
-  /* flex: 1; */
   margin: 0 2% 16px 0;
-  max-width: 320px;
+  max-width: 300px;
 }
 
 .card_image {
@@ -53,6 +57,7 @@ h4 {
 
 .container {
   padding: 16px;
+  background-color: #f5f5f5;
 }
 
 .article_container {
@@ -72,4 +77,201 @@ h4 {
     flex-direction: row;
     flex-wrap: wrap;
   }
+}
+
+/* SIDEBAR */
+/* SIDEBAR */
+/* SIDEBAR */
+
+.profile {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 16px;
+}
+
+.bimbam {
+  background-image: url("./images/bimbam.jpg");
+}
+
+.nikkierendler {
+  background-image: url("./images/nikkierendler.jpg");
+}
+
+.profile_img {
+  border-radius: 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 50px;
+  height: 50px;
+  border: 1px #ccc solid;
+}
+
+.profile_description {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-left: 16px;
+}
+
+.profile_name {
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.badge {
+  border: 1px solid #aaa;
+  border-radius: 4px;
+  font-size: 10px;
+  height: fit-content;
+  padding: 0 6px;
+  line-height: 1.8;
+  transform: translate(70px, -15px);
+  position: absolute;
+}
+
+.logo {
+  background-image: url("./images/akit.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 150px;
+  height: 50px;
+}
+
+.stack_items_container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+  padding: 16px;
+}
+
+.stack_item {
+  background-size: 50%;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100px;
+  height: 100px;
+  margin: 8px;
+  background-color: #f5f5f5;
+  border: 1px #ccc solid;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  font-weight: 300;
+}
+
+.stack_item_1 {
+  background-image: url("./images/angular-logo.png");
+}
+
+.stack_item_2 {
+  background-image: url("./images/nodejs-logo.png");
+  background-size: 70%;
+}
+
+.stack_item_3 {
+  background-image: url("./images/rx-logo.png");
+}
+
+.stack_item_4 {
+  background-image: url("./images/nestjs-logo.svg");
+}
+
+.stack_item_5 {
+  background-image: url("./images/ionic-logo.png");
+  background-size: 70%;
+}
+
+.stack_item_6 {
+  background-image: url("./images/postgres-logo.png");
+  background-size: 70%;
+}
+
+.stack_item_7 {
+  background-image: url("./images/sass-logo.png");
+}
+
+.stack_item_8 {
+  background-image: url("./images/mongodb-logo.png");
+}
+
+.stack_item_9 {
+  background-image: url("./images/antd-logo.svg");
+}
+
+.stack_item_10 {
+  background-image: url("./images/mongodb-logo.png");
+}
+
+.additional_items_container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+  padding: 0 24px;
+}
+
+.additional_item {
+  background-size: 60%;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 40px;
+  height: 40px;
+  margin: 8px;
+  background-color: #f5f5f5;
+  border: 1px #ccc solid;
+  border-radius: 50%;
+}
+
+.additional_item_1 {
+  background-image: url("./images/express-logo.png");
+  background-size: 100%;
+}
+
+.additional_item_2 {
+  background-image: url("./images/figma-logo.png");
+  background-size: 70%;
+}
+
+.additional_item_3 {
+  background-image: url("./images/github-logo.png");
+}
+
+.additional_item_4 {
+  background-image: url("./images/graphql-logo.png");
+}
+
+.additional_item_5 {
+  background-image: url("./images/heroku-logo.png");
+}
+
+.additional_item_6 {
+  background-image: url("./images/invision-logo.png");
+  background-size: 100%;
+}
+
+.additional_item_7 {
+  background-image: url("./images/socketio-logo.svg");
+}
+
+.additional_item_8 {
+  background-image: url("./images/antd-logo.svg");
+}
+
+.additional_item_9 {
+  background-image: url("./images/material-logo.png");
+}
+
+.additional_item_10 {
+  background-image: url("./images/ts-logo.png");
+}
+
+.additional_item_11 {
+  background-image: url("./images/js-logo.png");
+}
+
+.additional_item_12 {
+  background-image: url("./images/trello-logo.png");
 }
