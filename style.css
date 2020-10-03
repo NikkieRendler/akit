@@ -8,7 +8,7 @@ h4 {
 }
 
 body.sticky .sidebar, body.sticky .sidebar-toggle {
-  overflow: hidden !important;
+  overflow-x: hidden !important;
 }
 
 .sidebar-toggle {
