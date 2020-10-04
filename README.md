@@ -77,3 +77,14 @@
 
 <p style="margin: 0 0 16px 0;">Nowadays in minds of young entrepreneurs startups became an equivalent of successful business model. For sure they have a vision of a product itself, but on lowest level — who and how should do that for them? It’s good if future CEO is technically proficient, but what if not? And even if that’s true — would it be enough of 1–2 person to code everything?</p>
 </div>
+
+<div class="article_container">
+<a href="https://habr.com/ru/post/324912/" class="article_heading">
+ <div class="habr_logo"></div>
+  Node.js в PayPal
+</a> 
+<span class="article_author">Andrii Horievyi</span>
+
+<p style="margin: 0 0 16px 0;">Представляю вашему вниманию перевод статьи Node.js at PayPal, где инженер PayPal, Jeff Harrell, рассказывается о том как PayPal выбирал инструменты для работы с Node.js, сравнивает разработку на Java и Node.js на примере одного и того же продукта, а так же говорит о будущем Node.js в PayPal.</p>
+</div>
+

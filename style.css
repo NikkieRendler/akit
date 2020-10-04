@@ -7,6 +7,10 @@ h4 {
   margin: 0;
 }
 
+body.sticky .sidebar, body.sticky .sidebar-toggle {
+  overflow-x: hidden !important;
+}
+
 .sidebar-toggle {
   bottom: auto !important;
   top: 0 !important;
@@ -92,6 +96,18 @@ h4 {
   min-height: 25px;
   float: left;
   margin: 5px 5px 0 0;
+}
+
+.habr_logo {
+  background-image: url("./images/habr_logo.jpg");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-width: 25px;
+  min-height: 25px;
+  float: left;
+  margin: 5px 5px 0 0;
+  border-radius: 4px;
 }
 
 @media screen and (min-width: 768px) {
