@@ -5,7 +5,7 @@
 <div class="card">
   <div class="card_image card_image_1"></div>
   <div class="container">
-    <a href="https://innstoria.com" target="_blank">innstoria.com</a>
+    <a href="https://www.innstoria.com" target="_blank">innstoria.com</a>
     <p class="card_text">Online shop generator based on instagram profile data</p>
   </div>
 </div>
