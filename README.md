@@ -51,7 +51,7 @@
 <div class="article_container">
 <a href="https://medium.com/@aignbyf/node-js-advanced-concepts-%D0%BA%D0%B0%D0%BA-%D0%BC%D1%8B-%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D1%8F%D0%B5%D0%BC-c-%D0%BA%D0%BE%D0%B4-%D0%B4%D1%83%D0%BC%D0%B0%D1%8F-%D1%87%D1%82%D0%BE-%D0%BC%D1%8B-%D0%BF%D0%B8%D1%88%D0%B5%D0%BC-%D0%BD%D0%B0-javascript-77137874c808" class="article_heading">
  <div class="medium_logo"></div>
-  Node.js: Advanced Concepts —как мы выполняем C++ код, думая пишем на JavaScript
+  Node.js: Advanced Concepts — как мы выполняем C++ код, думая что пишем на JavaScript
 </a> 
 <span class="article_author">Andrii Horievyi</span>
 
