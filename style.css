@@ -255,7 +255,7 @@ body.sticky .sidebar, body.sticky .sidebar-toggle {
   display: flex;
   flex-flow: row wrap;
   justify-content: space-evenly;
-  padding: 0 24px 50px;
+  padding: 0 24px 24px;
 }
 
 .additional_item {

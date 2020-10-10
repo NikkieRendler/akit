@@ -24,7 +24,7 @@
     </div>
   </div>
 
-  <div style="text-align: center; font-size: 16px; font-weight: 600; padding-top: 16px;">Who we are</div>
+  <div style="text-align: center; font-size: 16px; font-weight: 600; padding-top: 16px;">Who are we</div>
   <div class="who_we_are">We are small team of developers. In spare time we are having fun creating projects and experimenting with different technologies.</div>
 
   <div style="text-align: center; font-size: 16px; font-weight: 600; padding-top: 16px;">Our stack</div>
@@ -37,7 +37,6 @@
     <div class="stack_item stack_item_6">PostgeSQL</div>
     <div class="stack_item stack_item_7">Sass</div>
     <div class="stack_item stack_item_8">MongoDB</div>
-
   </div>
 
    <div class="additional_items_container">
@@ -78,6 +77,8 @@
     <span class="tooltiptext">Trello</span>
     </div>
   </div>
+
+  <div style="padding: 16px; font-weight: 600; text-align: center;">Contact us: akit.codes@gmail.com</div>
 
 <!-- - [Projects](?id=projects)
 - [Articles](?id=articles) -->
