@@ -7,6 +7,7 @@
   <div class="container">
     <a href="https://www.innstoria.com" target="_blank">innstoria.com</a>
     <p class="card_text">Online shop generator based on instagram profile data</p>
+    <p class="card_stack">Main stack: Angular, Ionic, Node.js, Nest.js</p>
   </div>
 </div>
 
@@ -15,6 +16,7 @@
   <div class="container">
    <a href="https://web-to-mobile-web.now.sh/" target="_blank">web-to-mobile-web.now.sh</a>
     <p class="card_text">Transforms your website into iOS/Adnroid app</p>
+    <p class="card_stack">Main stack: Angular, Ionic, Node.js</p>
   </div>
 </div>
 
@@ -23,6 +25,7 @@
   <div class="container">
     <a href="https://validea.org" target="_blank">validea.org</a>
     <p class="card_text">Landing creation tool aimed on idea validation </p>
+    <p class="card_stack">Main stack: Angular, Node.js</p>
   </div>
 </div>
 
@@ -31,6 +34,43 @@
   <div class="container">
     <a href="https://statisfy-prod.herokuapp.com/startups" target="_blank">statisfy.io</a>
     <p class="card_text">IT statistics dashboard that uses info about vacancies, programming languages</p>
+    <p class="card_stack">Main stack: Angular, Node.js, Apollo GraphQL, Chart.js</p>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card_image card_image_5"></div>
+  <div class="container">
+    <a href="https://educationalhub-abc.com.ua" target="_blank">educationalhub-abc.com.ua</a>
+    <p class="card_text">Site for EDUCATIONAL HUB "ABC" education center which providing teaching services since 2016</p>
+    <p class="card_stack">Main stack: .NET Core, HTML & CSS, JavaScript</p>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card_image card_image_6"></div>
+  <div class="container">
+    <a href="https://marketplace.visualstudio.com/items?itemName=bogdanstefanjuk.theme-semantica">Semantica</a>
+    <p class="card_text">A light theme for Visual Studio Code. Combines minimalistic and original Visual Studio syntax highlight</p>
+    <p class="card_stack"></p>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card_image card_image_7"></div>
+  <div class="container">
+    <div class="closed_project_name">Open Pinboard (CLOSED)</div>
+    <p class="card_text closed_text">Application for managing browser bookmarks</p>
+    <p class="card_stack closed_text">Main stack: .NET Core, JavaScript, Bootstrap 4</p>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card_image card_image_8"></div>
+  <div class="container">
+    <div class="closed_project_name">Web cars (CLOSED)</div>
+    <p class="card_text closed_text">Online auction for cars. Provides the opportunity to buy reviewed cars by trusted service stations</p>
+    <p class="card_stack closed_text">Main stack: .NET Framework, ASP.NET MVC, Entity Framework, AngularJS</p>
   </div>
 </div>
 
@@ -87,4 +127,3 @@
 
 <p style="margin: 0 0 16px 0;">Представляю вашему вниманию перевод статьи Node.js at PayPal, где инженер PayPal, Jeff Harrell, рассказывается о том как PayPal выбирал инструменты для работы с Node.js, сравнивает разработку на Java и Node.js на примере одного и того же продукта, а так же говорит о будущем Node.js в PayPal.</p>
 </div>
-

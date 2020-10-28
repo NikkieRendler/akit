@@ -23,9 +23,19 @@
       </div> 
     </div>
   </div>
+   <div class="profile">
+    <div class="profile_img bodian"></div>
+    <div class="profile_description">
+      <div class="profile_name">Bohdan Stefaniuk</div>
+      <div style="color: #aaa; line-height: 1">Kyiv, Ukraine</div>
+      <div style="line-height: 1">Backend Developer | 
+      <a href="https://www.linkedin.com/in/bohdan-stefaniuk/">LinkedIn</a>
+      </div> 
+    </div>
+  </div>
 
   <div style="text-align: center; font-size: 16px; font-weight: 600; padding-top: 16px;">Who are we</div>
-  <div class="who_we_are">We are small team of developers. In spare time we are having fun creating projects and experimenting with different technologies.</div>
+  <div class="who_we_are">We are a small team of developers. In spare time we are having fun creating projects and experimenting with different technologies.</div>
 
   <div style="text-align: center; font-size: 16px; font-weight: 600; padding-top: 16px;">Our stack</div>
   <div class="stack_items_container">
@@ -37,6 +47,10 @@
     <div class="stack_item stack_item_6">PostgeSQL</div>
     <div class="stack_item stack_item_7">Sass</div>
     <div class="stack_item stack_item_8">MongoDB</div>
+    <div class="stack_item stack_item_9">TeamCity</div>
+    <div class="stack_item stack_item_10">Google Cloud</div>
+    <div class="stack_item stack_item_11">.NET Core</div>
+    <div class="stack_item stack_item_12">Redis</div>
   </div>
 
    <div class="additional_items_container">

@@ -7,7 +7,8 @@ h4 {
   margin: 0;
 }
 
-body.sticky .sidebar, body.sticky .sidebar-toggle {
+body.sticky .sidebar,
+body.sticky .sidebar-toggle {
   overflow-x: hidden !important;
 }
 
@@ -57,8 +58,41 @@ body.sticky .sidebar, body.sticky .sidebar-toggle {
   background-color: #fff;
 }
 
+.card_image_5 {
+  background-image: url("./images/educational_hub_abc-logo.jpg");
+}
+
+.card_image_6 {
+  background-image: url("./images/semantica-logo.jpg");
+}
+
+.card_image_7 {
+  background-image: url("./images/open_pinboard-logo.jpg");
+}
+
+.card_image_8 {
+  background-image: url("./images/webcars-logo.jpg");
+}
+
+.closed_project_name {
+  color: var(--theme-color, #42b983);
+  font-weight: 300;
+}
+
 .card_text {
   min-height: 80px;
+}
+
+.closed_text {
+  font-weight: 300;
+}
+
+.card_stack {
+  min-height: 50px;
+  margin-top: 0 !important;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
 }
 
 .card:hover {
@@ -99,7 +133,7 @@ body.sticky .sidebar, body.sticky .sidebar-toggle {
 }
 
 .habr_logo {
-  background-image: url("./images/habr_logo.jpg");
+  background-image: url("./images/habr-logo.jpg");
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -136,6 +170,10 @@ body.sticky .sidebar, body.sticky .sidebar-toggle {
   background-image: url("./images/nikkierendler.jpg");
 }
 
+.bodian {
+  background-image: url("./images/mesmall.JPG");
+}
+
 .who_we_are {
   padding: 16px;
   line-height: 1.5;
@@ -146,6 +184,7 @@ body.sticky .sidebar, body.sticky .sidebar-toggle {
   border-radius: 50%;
   background-size: cover;
   background-repeat: no-repeat;
+  background-position: center;
   width: 50px;
   height: 50px;
   border: 1px #ccc solid;
@@ -244,11 +283,19 @@ body.sticky .sidebar, body.sticky .sidebar-toggle {
 }
 
 .stack_item_9 {
-  background-image: url("./images/antd-logo.svg");
+  background-image: url("./images/teamcity-logo.png");
 }
 
 .stack_item_10 {
-  background-image: url("./images/mongodb-logo.png");
+  background-image: url("./images/google_cloud-logo.png");
+}
+
+.stack_item_11 {
+  background-image: url("./images/dotnet_core-logo.png");
+}
+
+.stack_item_12 {
+  background-image: url("./images/redis-logo.png");
 }
 
 .additional_items_container {
