@@ -65,15 +65,6 @@
   </div>
 </div>
 
-<div class="card">
-  <div class="card_image card_image_8"></div>
-  <div class="container">
-    <div class="closed_project_name">Web cars (CLOSED)</div>
-    <p class="card_text closed_text">Online auction for cars. Provides the opportunity to buy reviewed cars by trusted service stations</p>
-    <p class="card_stack closed_text">Main stack: .NET Framework, ASP.NET MVC, Entity Framework, AngularJS</p>
-  </div>
-</div>
-
 </div>
 
 ## Articles
